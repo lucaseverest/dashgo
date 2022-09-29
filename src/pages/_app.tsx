@@ -8,11 +8,7 @@ import { queryClient } from "../services/queryClient";
 import { makeServer } from "../services/mirage";
 import { theme } from "../styles/theme";
 
-const isDev = process.env.NODE_ENV === "development";
-
-if (isDev) {
-  makeServer();
-}
+makeServer();
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
