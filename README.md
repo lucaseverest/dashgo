@@ -8,6 +8,12 @@
   <img src=".github/preview-dashgo.gif">
 </div>
 
+
+Aplication in Production: <a href="http://dashgo-beta-three.vercel.app/">dashgo-lucaseverest</a>
+<p>📫 email: any_email</p>
+<p>🔢 senha: 123456</p>
+
+
 ## 💻 Main Technologies
 
 - [ReactJS](https://reactjs.org/)
