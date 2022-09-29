@@ -2,6 +2,8 @@
 
 <p align="center"> Dashgo. is a users dashboard developed at <a href="https://www.rocketseat.com.br/">Rocketseat</a> Ignite programming bootcamp.</p>
 
+## 📽 Preview
+
 <div align="center">
   <img src=".github/preview-dashgo.gif">
 </div>
